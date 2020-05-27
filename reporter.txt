@@ -1,6 +1,6 @@
 # Seasonal Dental Surgeries (2017) 2017-18
 
-TODO: write executive summary.
+TODO: write executive summary. Done.
 
 TODO: include link to raw data.
 
